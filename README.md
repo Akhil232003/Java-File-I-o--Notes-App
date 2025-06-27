@@ -1,2 +1,8 @@
-# Java-File-I-o--Notes-App
-A simple Java-based Notes Management App that allows users to write and view notes using file handling (FileWriter and BufferedReader). The app demonstrates the use of Java I/O streams and console-based menu interaction.
+#Java Notes App (File I/O Based)
+
+A simple Java **File I/O Notes Manager App** that allows users to **write and read notes** to/from a text file using `FileWriter` and `BufferedReader`. This project demonstrates basic file handling and console-based user interaction in Java.
+## Objective
+
+To practice **File Input/Output** in Java by building a menu-driven app where users can:
+- Write new notes 
+- View all saved notes 
